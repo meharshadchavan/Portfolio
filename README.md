@@ -1,17 +1,27 @@
-# prime
+# Project portfolio V-0.1
 
-A new Flutter project.
+Where Logic Meets Execution through Agentic Engineering
+ This isn't just a Flutter webapp; it’s a fully automated, cloud-native deployment pipeline designed to scale. Built while navigating the 2027 Firebase Studio sunset and migrating to agentic IDE workflows.
 
-## Getting Started
+The Tech Stack Breakdown:
 
-This project is a starting point for a Flutter application.
+Frontend: Built with Flutter  for a seamless cross-platform experience.
 
-A few resources to get you started if this is your first Flutter project:
+Backend & Hosting: Deployed on Google Cloud utilizing Firebase for real-time scalability.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+DevOps (CI/CD): Configured GitHub Actions to automate testing and deployment. Every push to the main branch is live .
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Agentic IDE: Leveraging Antigravity to orchestrate multi-agent coding tasks, significantly reducing the gap between "logic" and "execution."
+
+Automated Workflow (CI/CD)
+No manual uploads. No "it works on my machine" 
+
+Commit: Logic pushed to the main branch.
+
+Validate: GitHub Actions triggers automated testing suites.
+
+Build: Flutter web/mobile artifacts are generated in the cloud.
+
+Deploy: Live push to Firebase Hosting on GCP.
+
+Monitor: Real-time logging through the Google Cloud Console.
